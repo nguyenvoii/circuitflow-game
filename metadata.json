@@ -1,0 +1,6 @@
+{
+  "name": "Mô Phỏng Mạch Điện (Circuit Sim)",
+  "description": "Ứng dụng mô phỏng xây dựng và kiểm tra mạch điện trực quan, thư giãn và mang tính giáo dục với chế độ tự do và các thử thách lý thú.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
